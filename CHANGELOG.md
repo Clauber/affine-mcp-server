@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- `add_table_rows` appends or inserts rows into an existing native AFFiNE table, including tables with more than 20 rows, while preserving its header, existing cells, and column widths.
+
 ## [3.13.1] - 2026-11-16
 
 ### Security
